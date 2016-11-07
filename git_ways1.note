@@ -1,0 +1,16 @@
+git clone https://github.com/zybsyzlz/M.git
+git status
+git add -A
+git commit -m "提交vim插件"
+git config --list
+git push origin master
+
+
+
+git config --global user.name "zybsyzlz@sina.com"
+git config --global user.name "zybsyzlz"
+git config --global user.email "zybsyzlz@sina.com"
+git config --list
+
+
+https://github.com/yl849646685/papers/tree/master/git%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B
